@@ -1,0 +1,45 @@
+_repo: Claimants-to-Royalty_35710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingram, John Henry
+    aliases:
+    - Ingram, J. H. (John Henry)
+    - Salamanca, Felix de
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '37852'
+    url: http://www.gutenberg.org/2009/agents/37852
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Impostors and imposture'
+tableOfContents: 'Introduction -- The false Smerdis of Persia -- The false Antiochus
+  of Syria -- The false Alexander Balas of Syria -- The false Philip of Macedon --
+  The false Alexander of Jerusalem -- The false Nero of Rome -- The false Clotaire
+  the Second of France -- The false Clovis the Third of France -- The false Suatocopius
+  of Moravia -- The false Henry the Fifth of Germany -- The false Alexis, Emperor
+  of the East -- The false Baldwin of Flanders -- The false Frederick the Second of
+  Germany -- The false Voldemar the Second of Brandenburg -- The false Richard the
+  Second of England -- The false Mustapha of Turkey -- The false Edward the Sixth
+  of England -- The false Richard the Fourth of England -- The false Mustapha the
+  Second of Turkey -- The false Sebastian of Portugal -- The false Demetrius of Russia
+  -- The false Demetrius the Younger of Russia -- The false Zaga Christ of Abyssinia
+  -- The false Ibrahim of Turkey -- The false Mahomet Bey of Turkey -- The false Hercules
+  D''Este of Modena -- The false Charlotte of Russia -- The false Peter the Third
+  of Russia -- The false hereditary Prince of Baden -- The false Dauphins: Hervagault.
+  Bruneau. Hébert. Näundorff. Meves. Williams.  -- The false Princess of Cumberland
+  -- The false Counts of Albany.'
+title: Claimants to Royalty
+url: http://www.gutenberg.org/ebooks/35710
